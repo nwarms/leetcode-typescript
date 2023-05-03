@@ -1,0 +1,4 @@
+{
+  "jest.jestCommandLine": "npm run test --",
+  "jest.rootPath": "/Users/nick.warms/Documents/practice/leetcode-typescript"
+}
